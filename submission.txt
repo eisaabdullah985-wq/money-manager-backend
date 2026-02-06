@@ -15,4 +15,4 @@ Backend Deployment URL:
 https://money-manager-backend-l19d.onrender.com
 
 Last Commit Hash (Backend):
-xyz789backendhash
+c16d196
